@@ -1,8 +1,10 @@
-[English](README.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [Português](README.pt.md)
-
-# Shania Timing
+# Shania Timing — tableau de bord pour plusieurs sessions de code IA
 
 > Un tableau de bord léger, en lecture seule, qui montre ce que fait chaque session de programmation IA et le temps restant.
+
+Par [Shania Webstudio](https://shaniawebstudio.com), Granada (Espagne).
+
+[English](README.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [Português](README.pt.md)
 
 ## Ce que c’est
 

@@ -1,8 +1,10 @@
-**English** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
-
-# Shania Timing
+# Shania Timing — dashboard for several AI coding sessions
 
 > A light, read-only dashboard that shows what each AI coding session is doing and how much time is left.
+
+By [Shania Webstudio](https://shaniawebstudio.com), Granada (Spain).
+
+**English** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
 
 ## What it is
 

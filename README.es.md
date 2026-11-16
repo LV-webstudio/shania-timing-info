@@ -1,8 +1,10 @@
-[English](README.md) · **Español** · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
-
-# Shania Timing
+# Shania Timing — panel para varias sesiones de IA que programan
 
 > Un panel ligero y de solo lectura que muestra qué hace cada sesión de programación con IA y cuánto tiempo le queda.
+
+De [Shania Webstudio](https://shaniawebstudio.com), Granada (España).
+
+[English](README.md) · **Español** · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
 
 ## Qué es
 

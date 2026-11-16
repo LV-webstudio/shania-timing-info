@@ -1,8 +1,10 @@
-[English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md)
-
-# Shania Timing
+# Shania Timing — Dashboard für mehrere KI-Coding-Sitzungen
 
 > Ein schlankes, schreibgeschütztes Dashboard, das zeigt, was jede KI-Programmiersitzung tut und wie viel Zeit noch bleibt.
+
+Von [Shania Webstudio](https://shaniawebstudio.com), Granada (Spanien).
+
+[English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md)
 
 ## Was es ist
 
